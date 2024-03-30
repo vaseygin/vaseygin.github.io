@@ -8,4 +8,4 @@ date: 2022-10-19
 location: "Spokane, Washington"
 ---
 
-Poster presentor at 64th Annual Meeting of the American Physical Society Division of Plasma Physics. Abstract available [here](https://meetings.aps.org/Meeting/DPP22/Session/NP11.69).
+Poster at 64th Annual Meeting of the American Physical Society Division of Plasma Physics. Abstract available [here](https://meetings.aps.org/Meeting/DPP22/Session/NP11.69).

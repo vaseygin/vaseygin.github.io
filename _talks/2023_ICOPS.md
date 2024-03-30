@@ -8,4 +8,4 @@ date: 2022-05-22
 location: "Santa Fe, New Mexico"
 ---
 
-Poster presentor at 50th IEEE International Conference on Plasma Science (ICOPS). Abstract available [here](https://www.eventclass.org/contxt_icops2023/scientific/online-program/session?s=P-1#e105).
+Poster at 50th IEEE International Conference on Plasma Science (ICOPS). Abstract available [here](https://www.eventclass.org/contxt_icops2023/scientific/online-program/session?s=P-1#e105).
