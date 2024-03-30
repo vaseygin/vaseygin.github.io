@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2023_ICOPS
 venue: "ICOPS"
-date: 2022-05-22
+date: 2023-05-22
 location: "Santa Fe, New Mexico"
 ---
 
