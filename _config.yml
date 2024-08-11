@@ -86,7 +86,7 @@ author:
   location         : "East Lansing, Michigan"
   employer         : "Michigan State University"
   pubmed           : 
-  googlescholar    : "FILL_IN_TODO"
+  googlescholar    : "https://scholar.google.com/citations?user=mBoxeooAAAAJ&hl=en&oi=ao"
   email            : "vaseygin@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "orcid.gov/FILL_IN_TODO"
+  orcid            : "https://orcid.org/0009-0001-7779-393X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
