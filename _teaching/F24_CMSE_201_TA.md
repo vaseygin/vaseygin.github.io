@@ -11,8 +11,8 @@ location: "East Lansing, MI"
 ### Computational Modeling and Data Analysis I
 <!-- While my duties included grading assignments and holding office hours per usual, I had to be able to explain key concepts of, coding in python, data structures, command line interfaces, and version control. -->
 * Explain key concepts of
-    * coding in python
-    * data structures
-    * command line interfaces and version control
+    * algorithmic thinking
+    * data visualization
+    * numerical methods
 * Grading
 * Office Hours
