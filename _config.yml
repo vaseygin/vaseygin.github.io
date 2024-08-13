@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  Presentations:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,18 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talk
+    values:
+      layout: talk
+      author_profile: true
+      share: true
   # _presentations
   - scope:
       path: ""
-      type: presentations
+      type: presentation
     values:
       layout: talk
       author_profile: true
