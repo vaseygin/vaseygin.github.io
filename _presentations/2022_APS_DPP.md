@@ -1,8 +1,8 @@
 ---
 title: "Identifying Governing ODEs in Irregular Physical Domain with Diffusion"
-collection: talks
+collection: presentations
 type: "Poster"
-permalink: /talks/2022_APS_DPP
+permalink: /presentations/2022_APS_DPP
 venue: "APS DPP"
 date: 2022-10-19
 location: "Spokane, Washington"

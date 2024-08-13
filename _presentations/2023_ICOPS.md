@@ -1,8 +1,8 @@
 ---
 title: "Influence of Initial Conditions on Data-Driven Model Identification for Ideal MHD Test Problems "
-collection: talks
+collection: presentations
 type: "Poster"
-permalink: /talks/2023_ICOPS
+permalink: /presentations/2023_ICOPS
 venue: "ICOPS"
 date: 2023-05-22
 location: "Santa Fe, New Mexico"
