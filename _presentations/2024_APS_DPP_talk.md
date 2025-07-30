@@ -1,8 +1,8 @@
 ---
 title: "Quantifying Hall Conductivity using Data-Driven Model Identification"
 collection: presentations
-type: "Poster"
-permalink: /presentations/2024_APS_DPP_poster
+type: "Presentation"
+permalink: /presentations/2024_APS_DPP_talk
 venue: "APS DPP"
 date: 2024-10-10
 location: "Atlanta, Georgia"
