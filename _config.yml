@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Gina Vasey"
 title_separator          : "-"
-name                     : &name "Gina Vasey"
-description              : &description "PhD at Michigan State University"
+name                     : &name "Gina Vasey, PhD"
+description              : &description "Postdoctoral Research Associate"
 url                      : https://vaseygin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vaseygin.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gina Vasey"
+  name             : "Gina Vasey, PhD"
   avatar           : "website_image.jpg"
-  bio              : "PhD in Computational Mathematics, Science and Engineering"
-  location         : "East Lansing, Michigan"
-  employer         : "Michigan State University"
+  bio              : "Postdoctoral Research Associate"
+  location         : "Los Alamos, NM"
+  employer         : "Los Alamos National Laboratory"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mBoxeooAAAAJ&hl=en&oi=ao"
-  email            : "vaseygin@msu.edu"
+  email            : "grvasey@lanl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
